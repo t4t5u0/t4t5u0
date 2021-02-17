@@ -3,4 +3,4 @@
 
 ## social
 
-[![img/twitter.svg](img/twitter.svg)](https://twitter.com/i4mwh4ti4m)
+<img src="img/twitter.svg" width="100" height="100">
